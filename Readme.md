@@ -2,11 +2,11 @@ Visualized AI assisted diagnosis of COVID-19 from chest x-ray images
 
 Paper under review.
 
-#Results
+# Results
 All the **results** are available at ArchivedResults folder. 
 The folder named "ArchivedResults" contains the saved results of previous cross-validation execuation. 
 
-#Codes
+# Codes
 The **codes** also will be added for research puroposes after patent submission.
 Quick start:
 
